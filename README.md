@@ -1,7 +1,7 @@
 # hm3
 ### Homework #3 for DevOps course
 **_by Temur Pallaev (all sudo's are omitted)_**
-__
+
 
 Building an image:
 ```sh 
