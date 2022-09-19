@@ -2,6 +2,7 @@
 ### Homework #3 for DevOps course
 **_by Temur Pallaev (all sudo's are omitted)_**
 __
+
 Building an image:
 ```sh 
 docker build -t hm3-nginx-image:v0.1 . 
